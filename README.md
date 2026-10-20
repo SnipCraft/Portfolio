@@ -1,5 +1,3 @@
-```
-
 # Aditi Karfa | Portfolio
 
 A personal portfolio showcasing my skills, education, projects, experience, and certifications.
@@ -12,5 +10,3 @@ A personal portfolio showcasing my skills, education, projects, experience, and 
 - JavaScript
 
 Made with ❤️ by Aditi Karfa
-
-```
